@@ -1364,78 +1364,27 @@ a {
 .cid-tJS6uM4N87 .mbr-section-btn {
   color: #ffa25b;
 }
-.cid-tMlEXTHLbS {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-06-09-at-17.52.41-ee6df1b2-1080x810.jpeg");
+.cid-ugdTBDEvQG {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/158408207-214680520403866-8005193779606327940-n-3-1024x768.jpeg");
 }
-.cid-tMlEXTHLbS .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.3;
+.cid-ugdTBDEvQG .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-tMlEXTHLbS img,
-.cid-tMlEXTHLbS .item-img {
+.cid-ugdTBDEvQG .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
   width: 100%;
   height: 100%;
-  height: 500px;
-  object-fit: cover;
+  position: absolute;
+  top: 0;
 }
-.cid-tMlEXTHLbS .item:focus,
-.cid-tMlEXTHLbS span:focus {
-  outline: none;
+.cid-ugdTBDEvQG .row {
+  flex-direction: row-reverse;
 }
-.cid-tMlEXTHLbS .item {
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-tMlEXTHLbS .item {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tMlEXTHLbS .item-content {
-  margin-top: 2rem;
-  padding: 0 2.25rem 2.25rem;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
-@media (max-width: 767px) {
-  .cid-tMlEXTHLbS .item-content {
-    padding: 0 2rem 1.5rem;
-    margin-top: 1rem;
-  }
-}
-.cid-tMlEXTHLbS .item-wrapper {
-  position: relative;
-  background: #edefeb;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-.cid-tMlEXTHLbS .item-wrapper .item-footer {
-  margin-top: auto;
-}
-.cid-tMlEXTHLbS .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-tMlEXTHLbS .item-title {
-  text-align: left;
-  color: #000000;
-}
-.cid-tMlEXTHLbS .item-subtitle {
-  text-align: left;
-}
-.cid-tMlEXTHLbS .mbr-text,
-.cid-tMlEXTHLbS .item .mbr-section-btn {
-  text-align: left;
-}
-.cid-tMlEXTHLbS .content-head {
-  max-width: 800px;
-}
-.cid-tMlEXTHLbS .mbr-section-subtitle,
-.cid-tMlEXTHLbS .mbr-section-head .mbr-section-btn {
-  color: #ffffff;
+.cid-ugdTBDEvQG .mbr-description {
   text-align: center;
 }
 .cid-uffddh0hUS {
