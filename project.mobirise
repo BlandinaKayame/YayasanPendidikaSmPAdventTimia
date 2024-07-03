@@ -1,16 +1,16 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
       "styling": {
-        "primaryColor": "#003189",
+        "primaryColor": "#ffa600",
         "secondaryColor": "#ffd7ef",
         "successColor": "#3a341c",
-        "infoColor": "#2e481a",
-        "warningColor": "#1865ef",
+        "infoColor": "#958000",
+        "warningColor": "#645600",
         "dangerColor": "#ffffff",
         "mainFont": "Inter Tight",
         "display1Font": "Inter Tight",
@@ -867,7 +867,7 @@
               "background": "@topbg"
             },
             ".mbr-section-title": {
-              "color": "#0092ff"
+              "color": "#ffde04"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffa25b"
