@@ -867,7 +867,8 @@
               "background": "@topbg"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffa25b"
